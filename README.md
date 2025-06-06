@@ -4,10 +4,10 @@ This is a lightweight Python script that:
 
 - Automatically downloads podcast episodes from one or more RSS feeds
 - Speeds them up to a specified playback rate (e.g., 2.5x)
-- Preserves audio pitch (no chipmunk effect)
+- Preserves audio pitch
 - Saves the processed episodes as MP3s
 
-Perfect for power listeners or anyone looking to save time consuming podcast content.
+Perfect for people who want to maximize efficiency.
 
 ---
 
@@ -16,8 +16,6 @@ Perfect for power listeners or anyone looking to save time consuming podcast con
 - Batch downloads latest episodes from multiple feeds
 - Converts audio to faster speed while preserving pitch
 - Saves output as `.mp3` files in a configurable directory
-- Command-line interface for speed and episode control
-- Cleans up original files after processing
 
 ---
 
